@@ -39,9 +39,10 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :  "light" (default), # "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : # "github-light" (default), 
+    "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -85,8 +86,8 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : Bozorgealv
-facebook:
-  username               : sauleh.eetemadi
+instagram:
+  username               : babak_alv
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -112,11 +113,11 @@ author:
   bio              : I'm a student at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, swimming, diving, ... 
   location         : "تهران"
   email            : seyed.babak.alavi@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  twitter: 
+  linkedin: 
+  google_scholar:
+  github: BobbyAlavi
+  instagram: babak_alv
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -141,7 +142,7 @@ author:
       url: "http://calendly.com/pourrang_atashi"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      # url: "http://t.me/Sauleh"
 
 # Site Footer
 footer:
