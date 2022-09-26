@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+title                    : "سید بابک علوی"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Babak" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : Bozorgealv
 facebook:
   username               : sauleh.eetemadi
   app_id                 :
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Toorrang Atashi"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
+  name             : "Babak Alavi"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : I'm a student at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, swimming, diving, ... 
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : seyed.babak.alavi@gmail.com
   twitter: sauleh_e
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
